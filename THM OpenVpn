@@ -1,0 +1,7 @@
+accessed site https://tryhackme.com/room/openvpn
+read directions, clicked correct
+downloaded OpenVPN and installed in Windows
+add configuration file to OpenVpn, conencted to vpn
+opened browser typed 10.10.75.199
+flag revealed >flag{connection_verified}
+read material, completed
