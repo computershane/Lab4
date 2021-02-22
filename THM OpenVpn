@@ -1,7 +1,14 @@
 accessed site https://tryhackme.com/room/openvpn
 read directions, clicked correct
 downloaded OpenVPN and installed in Windows
-add configuration file to OpenVpn, conencted to vpn
-opened browser typed 10.10.75.199
-flag revealed >flag{connection_verified}
-read material, completed
+add configuration file to OpenVpn, conencted to vpn, clicked completed
+opened macbook, followed steps, successfully completed conencted, clicked completed
+opened kali in my vm.
+opened terminal
+sudo apt install openvpn
+sudo openvpn /path-to-file/computershane.ovpn
+im conencted , clicked completed
+read steps about a kali machine in try ahck me, this fails since im not subscribed
+clicked completed
+again attackbox failed.
+checked connected, added ip to my own browser tab, the flag revealed> flag{connection_verified}
