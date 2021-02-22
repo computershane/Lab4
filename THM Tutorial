@@ -1,4 +1,9 @@
 accessed https://tryhackme.com/room/tutorial
 deployed machine by clicking StartAttackBox
 Once setup, clicked deploy machine
-
+this process fialed, I cannot do attack box with non registered account more than oncee and first attempt failed as browser crashed.
+downloaded OpenVPN and installed in Windows
+add configuration file to OpenVpn, conencted to vpn
+opened browser typed 10.10.75.199
+flag revealed >flag{connection_verified}
+read material, completed
